@@ -1,0 +1,4 @@
+#For upgrade Python version from 3.11 to 3.12 run below command
+
+
+conda create -n python12 python==3.12  -y
